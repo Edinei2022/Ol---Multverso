@@ -1,5 +1,7 @@
 ## Calculadora de mídia de Aluno ##
 
+matriz = [[0],[0],[0],[0]]
+
 disciplina = ["português", "inglês", "matématica", "física"]
 print(disciplina[0])
 
